@@ -1,7 +1,0 @@
-{
-  "version": "v0.6.18",
-  "npm": false,
-  "main": "server.js",
-  "args": ["unity"],
-  "envs": {"listenport": "80"}
-}
